@@ -11,7 +11,7 @@ The recommended way to install PHP-Unoconv is [through composer](http://getcompo
 ```JSON
 {
     "require": {
-        "php-unoconv/php-unoconv": "~0.2"
+        "ceefee/php-unoconv": "~0.3.2"
     }
 }
 ```
